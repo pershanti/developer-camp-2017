@@ -8,11 +8,11 @@ Matching is determined by:
 - distance from the user, 
 - weight/size of the dog, 
 - Vaccinated -- applicable only if <1 year old
-- Temperament (energy, social) 
+- Temperament (energy, social)        
 
 
 
-- The user should be able to filter the matches by:
+The user should be able to filter the matches by:
   - Distance: 5mi, 10mi, 15mi
   
   - Breed (optional ?)
