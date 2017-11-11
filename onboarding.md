@@ -3,7 +3,7 @@
   - What's your dog's name?
   - What's your dog's gender?
   - How old is he/she (<1, 1-5, 5-8, 8+)
-    - if less than 5, ask if vaccinated
+    - if less than 1, ask if vaccinated
   - Weight (raw number)
 
 - page 2:
