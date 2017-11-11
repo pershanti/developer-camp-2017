@@ -24,10 +24,14 @@ Result:
 
 - Filters:
   - Distance: 5mi, 10mi, 15mi
-  - Spay/Neuter
-  - Size ***
-  - Vaccinated
+  - Size *** 200 lbs 
   - Temperament******
+  
+  
+  - Vaccinated -- applicable only if <1 year old
+  - Neuter/Spay
+  - Breed
+
 
 ### Profile
 - Photo
