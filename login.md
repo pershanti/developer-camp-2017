@@ -1,0 +1,2 @@
+- Splash Page
+- Login with Facebook
