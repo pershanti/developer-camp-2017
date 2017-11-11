@@ -26,7 +26,7 @@ Result:
 - Weight/size 
 - Vaccination
 - Availability
- **Temperament**
+- **Temperament**
  
 ### Edit Profile:
 - page 1:
